@@ -1,0 +1,9 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\bin\Debug\ED - Programa 24.Expresiones.exe.config
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\bin\Debug\ED - Programa 24.Expresiones.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\bin\Debug\ED - Programa 24.Expresiones.pdb
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\obj\Debug\ED - Programa 24.Expresiones.csprojResolveAssemblyReference.cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\obj\Debug\ED___Programa_24.Expresiones.Form1.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\obj\Debug\ED___Programa_24.Expresiones.Properties.Resources.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\obj\Debug\ED - Programa 24.Expresiones.csproj.GenerateResource.Cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\obj\Debug\ED - Programa 24.Expresiones.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 24.Expresiones\ED - Programa 24.Expresiones\obj\Debug\ED - Programa 24.Expresiones.pdb
